@@ -7,4 +7,5 @@ Currently only working with one Reddit comment thread as a test case for HackNY 
 USAGE:
 
 cd redditBotAnalysis
+
 python ML.py
